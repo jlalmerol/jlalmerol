@@ -5,12 +5,13 @@
 - 🔭 I’m currently working on: N-body Simulations on RISC-V/RISC-V-based accelerators.
 - 🌱 I’m currently learning: High Performance Computing.
 
+<!--
+**jlalmerol/jlalmerol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
 ## 🗣️ Most Used Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jlalmerol&layout=compact&hide_title=true&theme=radical)
-
-<!--
-**jlalmerol/jlalmerol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
