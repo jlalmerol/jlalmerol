@@ -7,7 +7,6 @@
 
 ## 🗣️ Most Used Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&hide_title=true&theme=radical)
 
 <!--
 **jlalmerol/jlalmerol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
