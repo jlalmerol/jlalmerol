@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Jenny Almerol
+# 👋 Hi, I'm Jenny Almerol.
 
 ## 👩‍💻 About Me
 
